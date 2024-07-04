@@ -1,0 +1,136 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  background:
+    radial-gradient(farthest-side at -33.33% 50%, #0000 52%, #00ff36 54% 57%, #0000 59%) 0 calc(104px/2),
+    radial-gradient(farthest-side at 50% 133.33%, #0000 52%, #00ff36 54% 57%, #0000 59%) calc(104px/2) 0,
+    radial-gradient(farthest-side at 133.33% 50%, #0000 52%, #00ff36 54% 57%, #0000 59%),
+    radial-gradient(farthest-side at 50% -33.33%, #0000 52%, #00ff36 54% 57%, #0000 59%),
+    #000000;
+  background-size: calc(104px/4.667) 104px, 104px calc(104px/4.667);
+}
+
+th {
+  cursor: row-resize;
+}
+
+footer {
+  text-align: center !important;
+  margin-top: 100VH;
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
+}
+
+.desactivado {
+  pointer-events: none !important;
+  background-color: gray !important;
+  color: black !important;
+}
+
+th {
+  width: auto;
+  height: auto;
+  text-align: justify;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+table {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-green {
+  color: green !important;
+}
+
+.navbar-toggler-icon {
+  background-color: green !important;
+}
+
+.active {
+  pointer-events: none;
+}
+
+.activado {
+  color: white !important;
+  pointer-events: none;
+  background-color: blue !important;
+}
+
+.mayus:first-letter {
+  text-transform: uppercase;
+}
+
+.carousel-caption{
+  background-color: green !important;
+  color: black !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+.fa-pen::before{
+  margin-right: 0.3rem !important
+}
+
+.ver_mas{
+  overflow: visible !important;
+  white-space:inherit !important;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+#basic-nav-dropdown {
+  color: green !important;
+}
+
+.top_index {
+  z-index: 9999;
+}
+
+.margin_left_085rem {
+  margin-left: 0.85rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex>* {
+  margin: 0.5rem 0.5rem;
+}
+
+.ordenar_abajo:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  margin-left: 0.6em;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid rgb(0, 255, 255);
+}
+
+.ordenar_arriba:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  margin-left: 0.6em;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid rgb(0, 255, 255);
+}

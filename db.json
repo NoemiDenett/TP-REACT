@@ -1,0 +1,137 @@
+{
+  "usuarios": [
+    {
+      "id": "USU01",
+      "nombre": "admin",
+      "email": "admin@gmail.com",
+      "pass": "admin",
+      "privilegio": "Cd17"
+    },
+    {
+      "id": "USU02",
+      "nombre": "usuario",
+      "email": "usuario@gmail.com",
+      "pass": "usuario",
+      "privilegio": "Cd18"
+    },
+    {
+      "id": "USU03",
+      "nombre": "usuario2",
+      "email": "usuario2@gmail.com",
+      "pass": "usuario2",
+      "privilegio": "Cd18"
+    },
+    {
+      "id": " y4fP",
+      "nombre": "pablo21",
+      "email": "confidasltda@gmail.com",
+      "pass": "confidasltda",
+      "privilegio": "Cd18"
+    }
+  ],
+  "libros": [
+    {
+      "id": "LD12",
+      "titulo": "El señor de los anillos 1",
+      "Descripcion": "atas",
+      "Autor": "Manzana",
+      "Editorial": "La laguna"
+    },
+    {
+      "id": "tdPk",
+      "titulo": "Prueba",
+      "Descripcion": "prueba",
+      "Autor": "prueba",
+      "Editorial": "prueba"
+    },
+    {
+      "id": "tnPk",
+      "titulo": "Prueba",
+      "Descripcion": "prueba",
+      "Autor": "prueba",
+      "Editorial": "prueba"
+    },
+    {
+      "id": " Acxg",
+      "titulo": "Ejemplo 2",
+      "Descripcion": "ejemplo 1 ",
+      "Autor": "ejemplo 3 ",
+      "Editorial": "ejemplo 4"
+    },
+    {
+      "id": " gfSP",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dssd",
+      "Editorial": "dsaasd"
+    },
+    {
+      "id": " gfSd",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dssd",
+      "Editorial": "dsaasd"
+    },
+    {
+      "id": " gfSf",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dssd",
+      "Editorial": "dsaasd"
+    },
+    {
+      "id": "afSP",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dssd",
+      "Editorial": "dsaasd"
+    },
+    {
+      "id": "pdSP",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dssd",
+      "Editorial": "dsaasd"
+    },
+    {
+      "id": " WOfY",
+      "titulo": "ejemploxz",
+      "Descripcion": "ejemploz",
+      "Autor": "dsasd",
+      "Editorial": "dsaappds"
+    },
+    {
+      "id": " sCuV",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dsasd",
+      "Editorial": "sdasad"
+    },
+    {
+      "id": " CDpn",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "dsadad",
+      "Editorial": "dsaasd22aa"
+    },
+    {
+      "id": " Preo",
+      "titulo": "ejemplo",
+      "Descripcion": "ejemplo",
+      "Autor": "2",
+      "Editorial": "2"
+    }
+  ],
+  "permisos": [
+    {
+      "id": "Cd17",
+      "nombre": "admin",
+      "tablas": "libros,usuarios,permisos"
+    },
+    {
+      "id": "Cd18",
+      "nombre": "usuario",
+      "tablas": "libros"
+    }
+  ]
+}
