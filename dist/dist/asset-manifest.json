@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c477db2.css",
+    "main.js": "/static/js/main.42d6ad80.js",
+    "static/js/453.4ca221c2.chunk.js": "/static/js/453.4ca221c2.chunk.js",
+    "static/media/eragon.jpg": "/static/media/eragon.3a7a830ec31922aef4ba.jpg",
+    "static/media/harry_potter.jpg": "/static/media/harry_potter.46ed0da53b9d200acac3.jpg",
+    "static/media/juego_tronos.jpg": "/static/media/juego_tronos.e07b0980eae2251e0035.jpg",
+    "index.html": "/index.html",
+    "main.1c477db2.css.map": "/static/css/main.1c477db2.css.map",
+    "main.42d6ad80.js.map": "/static/js/main.42d6ad80.js.map",
+    "453.4ca221c2.chunk.js.map": "/static/js/453.4ca221c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c477db2.css",
+    "static/js/main.42d6ad80.js"
+  ]
+}
